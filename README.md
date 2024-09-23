@@ -1,0 +1,1 @@
+Developed and trained a Convolutional Neural Network using TensorFlow and Keras to classify CIFAR-10 images with 85% accuracy, implementing data augmentation and regularization techniques to enhance model performance. 
